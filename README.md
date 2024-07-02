@@ -1,4 +1,4 @@
-# Oi, meu nome é Luis Vieira, seja bem vindo ao meu perfil! 👋
+# Oioi, sou o Luis Vieira, e esse é o meu perfil! 👋
 
 - Formado em Croação de jogos. 🎮
 - Atualmente estudo na FIAP no Curso Superior de Análise e Desenvolvimento de Sistemas. 🖥️
