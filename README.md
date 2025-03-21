@@ -5,13 +5,13 @@
 - Alem de Dev Junior, sou designer social midia e especialista em CopyWriting e SEO 🖼️ 
 - Trabalhando na area de dados para Growth marketing na Frubana 🔺
 
-## luixvieira's GitHub Stats
+## luvieirasantosvieira's GitHub Stats
 
-[![Luis Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=luixvieira&show_icons=true&theme=radical)](https://github.com/luixvieira/github-readme-stats)
+[![Luis Vieira's GitHub stats](https://github-readme-stats.vercel.app/api?username=luvieirasantos&show_icons=true&theme=radical)](https://github.com/luvieirasantos/github-readme-stats)
 
 ## Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luixvieira&layout=compact&theme=radical)](https://github.com/luixvieira/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luvieirasantos&layout=compact&theme=radical)](https://github.com/luvieirasantos/github-readme-stats)
 
 ## Contatos
 
