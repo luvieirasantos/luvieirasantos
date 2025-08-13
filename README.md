@@ -2,8 +2,8 @@
 
 - Formado em Criação de jogos. 🎮
 - Atualmente estudo na FIAP no Curso Superior de Análise e Desenvolvimento de Sistemas. 🖥️
-- Alem de Dev Junior, sou designer social midia e especialista em CopyWriting e SEO 🖼️ 
-- Trabalhando na area de dados para Growth marketing 🔺
+- Alem de Dev, sou designer social midia e especialista em CopyWriting e SEO 🖼️ 
+- Trabalhando na area de dados para Growth marketing e UX/UI 🔺
 
 ## luvieirasantosvieira's GitHub Stats
 
