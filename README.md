@@ -1,4 +1,4 @@
-# Oioi, sou o Lu Vieira, e esse é o meu perfil! 👋
+# Oioi, sou a Lu Vieira, e esse é o meu perfil! 👋
 
 - Formado em Criação de jogos. 🎮
 - Atualmente estudo na FIAP no Curso Superior de Análise e Desenvolvimento de Sistemas. 🖥️
