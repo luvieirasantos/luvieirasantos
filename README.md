@@ -2,8 +2,7 @@
 
 - Formado em Criação de jogos. 🎮
 - Graduado na FIAP no Curso Superior de Análise e Desenvolvimento de Sistemas. 🖥️
-- Alem de Dev, sou designer social midia e especialista em CopyWriting e SEO 🖼️ 
-- Trabalhando na area de dados para Growth marketing e UX/UI 🔺
+- Alem de Dev, sou social midia e especialista em CopyWriting e SEO 🖼️ 
 
 ## luvieirasantosvieira's GitHub Stats
 
